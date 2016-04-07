@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Timystry</string>
+    <string name="action_settings">Settings</string>
+    <string name="TimystryLogo">Timystry Logo</string>
+    <string name="ViewSchedule">View Schedule</string>
+    <string name="Assignment">Assignment</string>
+    <string name="WorkCompleted">Work Completed</string>
+    <string name="title_activity_assignment">Assignment</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_work_complete">WorkComplete</string>
+    <string name="Weekly">Weekly</string>
+    <string name="title_activity_new_assignment">Enter New Assignment</string>
+    <string name="asgID">Not Assigned</string>
+    <string name="AssignmentID">Assignment ID</string>
+    <string name="NotAssigned">Not Assigned</string>
+    <string name="title_activity_show_assignments">Show Assignments</string>
+
+</resources>
